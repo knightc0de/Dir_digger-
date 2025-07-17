@@ -40,7 +40,7 @@ pip3 install requests termcolor colorama
 > python dir_digger.py [target] -w [wordlist] -t [threads] -v --output [filename]
 
 ```bash
-   python3 dir_digger.py example.com -w dirb_.txt -t 200 -v --output found.txt
+   python3 Dir_digger.py example.com -w dirb_.txt -t 200 -v --output found.txt
 ```
 
 # 👨‍💻Author 
